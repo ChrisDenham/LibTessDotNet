@@ -33,3 +33,5 @@ obj/
 Work/
 Build/Debug/
 Build/Release/
+/.svn/
+/.vs/
